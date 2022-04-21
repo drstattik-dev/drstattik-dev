@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align='center' >
+  <img title="DrSTaTTiK" width="65%" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api"><br>
+  <img title="DrSTaTTiK" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/views"><br>
+  <img title="DrSTaTTiK" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/viewstitle"><br>
+</h1>
 
 <!--
 **drstattik-dev/drstattik-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
