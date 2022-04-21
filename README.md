@@ -1,8 +1,8 @@
-<h1 align='center' >
+<p align='center' >
   <img title="DrSTaTTiK" width="65%" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api"><br>
   <img title="DrSTaTTiK" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/views"><br>
   <img title="DrSTaTTiK" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/viewstitle"><br>
-</h1>
+</p>
 
 <p align="center">
   <code><img title="Python" height="25" src="https://www.svgrepo.com/show/354238/python.svg"></code>
