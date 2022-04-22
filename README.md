@@ -1,4 +1,4 @@
-<p align='center' >
+<p align='center'>
   <img title="DrSTaTTiK" width="65%" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api"><br>
   <img title="00000" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/views"><br>
   <img title="views" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/viewstitle"><br>
@@ -11,7 +11,6 @@
   <code><img title="CSS" height="25" src="https://www.svgrepo.com/show/353623/css-3.svg"></code>
   <code><img title="JSON" height="25" src="https://www.svgrepo.com/show/374338/json.svg"></code>
 </p>
-
 <!--
 **drstattik-dev/drstattik-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
