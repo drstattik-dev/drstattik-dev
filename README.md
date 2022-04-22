@@ -1,7 +1,7 @@
 <p align='center' >
   <img title="DrSTaTTiK" width="65%" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api"><br>
-  <img title="DrSTaTTiK" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/views"><br>
-  <img title="DrSTaTTiK" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/viewstitle"><br>
+  <img title="00000" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/views"><br>
+  <img title="views" height="65" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api/viewstitle"><br>
 </p>
 
 <p align="center">
