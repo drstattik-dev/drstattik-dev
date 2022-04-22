@@ -1,7 +1,15 @@
 
 
-<p align='center'>
+<h1 align='center'>
   <img title="DrSTaTTiK" width="50%" src="https://harmonious-centaur-e23d86.netlify.app/.netlify/functions/api"><br>
+</h1>
+
+<p align='center'>
+  <code><img title="Python" height="25" src="https://www.svgrepo.com/show/354238/python.svg"></code>
+  <code><img title="NodeJS" height="25" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://www.svgrepo.com/show/284831/virus-problem.svg"></code>
+  <code><img title="CSS" height="25" src="https://www.svgrepo.com/show/353623/css-3.svg"></code>
+  <code><img title="JSON" height="25" src="https://www.svgrepo.com/show/374338/json.svg"></code>
 </p>
 
 ```javascript
@@ -24,14 +32,6 @@ const aboutMe = {
    challenge: 'I'm working towards being able to race motorcycles.',
 };
 ```
-
-<p align='center'>
-  <code><img title="Python" height="25" src="https://www.svgrepo.com/show/354238/python.svg"></code>
-  <code><img title="NodeJS" height="25" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://www.svgrepo.com/show/284831/virus-problem.svg"></code>
-  <code><img title="CSS" height="25" src="https://www.svgrepo.com/show/353623/css-3.svg"></code>
-  <code><img title="JSON" height="25" src="https://www.svgrepo.com/show/374338/json.svg"></code>
-</p>
 
 <!--
 **drstattik-dev/drstattik-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
