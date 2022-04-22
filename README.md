@@ -22,7 +22,8 @@ const aboutMe = {
          css: ['Bulma', 'Bootstrap', 'Material UI', 'Semantic UI']
       },
       backEnd: {
-         js: ['Node', 'Express', 'FLask'],
+         js: ['Node', 'Express'],
+         py: ['Flash']
          misc: ['Bash', 'Git' 'Cypress']
       },
       databases: ['MongoDB', 'mySQL', 'PostgreSQL'],
