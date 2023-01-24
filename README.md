@@ -23,7 +23,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ['Node', 'Express'],
-         py: ['Flash']
+         py: ['Flask']
          misc: ['Bash', 'Git' 'Cypress']
       },
       databases: ['MongoDB', 'mySQL', 'PostgreSQL'],
